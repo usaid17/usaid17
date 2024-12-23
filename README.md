@@ -3,7 +3,7 @@
 # 👋 Welcome to My GitHub!  
 
 Hi, I’m Usaid 👨‍💻  
-A tech enthusiast exploring **Data Science**, **Artificial Intelligence**, and **Cybersecurity** while studying at the **Indian Institute of Technology**.  
+A tech enthusiast exploring **Data Science**, **Artificial Intelligence**, and **Cybersecurity** while studying at the **Indian Institute of Technology Guwahati**.  
 
 ## 🚀 About Me  
 - 💡 I love learning about technology and solving real-world problems through code.  
