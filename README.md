@@ -13,7 +13,7 @@ A tech enthusiast exploring **Data Science**, **Artificial Intelligence**, and *
 ## 🛠️ Skills  
 - **Programming Languages:** C, Python  
 - **Tools & Frameworks:** Git, Flask, TensorFlow (beginner level)  
-- **Interests:** Cybersecurity, AI and Web Development  
+- **Interests:** Data Science & AI, Cybersecurity and Web Development  
 
 ## 🌟 Fun Fact  
 When I’m not coding, I’m probably reading about tech trends or experimenting with new ideas!  
